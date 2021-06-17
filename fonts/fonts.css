@@ -1,0 +1,97 @@
+/*PlayfairDisplay*/
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: 600;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Semibold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: 300;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-weight: medium;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('FontsFree-Net-SFProDisplay-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeoR';
+    font-style: normal;
+    src: local('AppleSDGothicNeoR'),
+        url('AppleSDGothicNeoR.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeoSB';
+    font-style: normal;
+    src: local('AppleSDGothicNeoSB'),
+        url('AppleSDGothicNeoSB.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoL';
+    font-style: normal;
+    src: local('AppleSDGothicNeoL'),
+        url('AppleSDGothicNeoL.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeoM';
+    font-style: normal;
+    src: local('AppleSDGothicNeoM'),
+        url('AppleSDGothicNeoM.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoEB';
+    font-style: normal;
+    src: local('AppleSDGothicNeoEB'),
+        url('AppleSDGothicNeoEB.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoUL';
+    font-style: normal;
+    src: local('AppleSDGothicNeoUL'),
+        url('AppleSDGothicNeoUL.ttf') format('truetype');
+}
+
+
+
+
+/* Noto Sans CJK KR */
+@font-face {
+    font-family: 'Noto Sans CJK KR';
+    font-weight: bold;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('NotoSansCJKkr-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Noto Sans CJK KR';
+    font-weight:medium;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('NotoSansCJKkr-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Noto Sans CJK KR';
+    font-weight:Normal;
+    font-style: normal;
+    src: local('SF Pro Display'),
+        url('NotoSansCJKkr-Regular.otf') format('opentype');
+}
+
+/* Roboto */
+@font-face {
+    font-family: 'Roboto';
+    font-weight:bold;
+    font-style: normal;
+    src: local('Roboto'),
+        url('Roboto-Bold.ttf') format('truetype');
+}
