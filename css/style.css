@@ -118,7 +118,7 @@
 }
 .con2 .txt{
     position: absolute;
-    top: 50%;
+    top: 380px;
     margin-left: 320px;
     transform: translateY(-50%);
 }
@@ -131,8 +131,8 @@
 }
 .con2 .content{
     font-family: 'AppleSDGothicNeoR';
-    font-size: 15px;
-    line-height: 35px;
+    font-size: 18px;
+    line-height: 40px;
     color: #242831;
     text-align: left;
 }
